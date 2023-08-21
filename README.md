@@ -6,17 +6,12 @@ This repository contains the code of my First responsive portfolio Template
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [License](#license)
 - [Contact](#contact)
-
-## Demo
-
-You can view a live demo of the website [here](https://your-portfolio-website-url.com).
 
 ## Features
 
