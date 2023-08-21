@@ -22,9 +22,31 @@ You can view a live demo of the website [here](https://your-portfolio-website-ur
 
 - Responsive design for various screen sizes.
 - Animated scrolling and reveal effects using ScrollReveal library.
-- Dynamic typing effect using Typed.js library.
-- Sections for home, about, services, projects, and contact information.
-- CSS custom properties for easy color customization.
+- Dynamic text typing effect using Typed.js library.
+- Sections for home, about, services, projects, and contact.
+- Stylish and modern design using custom CSS.
+- Navigation menu for easy access to different sections.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- ScrollReveal (for animations)
+- Typed.js (for dynamic text effect)
+
+## Setup
+
+1. Clone this repository to your local machine.
+2. Navigate to the project folder.
+
+## Usage
+
+1. Open `index.html` in your web browser to view the website.
+
+## Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Installation
 
